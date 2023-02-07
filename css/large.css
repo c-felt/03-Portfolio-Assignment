@@ -1,0 +1,16 @@
+@media only screen and (min-width: 60rem) {
+    section#about h1 {
+        font-size: 5rem;
+        color: var(--primaryColor);
+    }
+    section#about h2 {
+        font-size: 3rem;
+        color: var(--primaryColor);
+    }
+    div.theParent a {
+        flex-basis: 33.33333%;
+        padding: 1rem 7vw;
+    }
+
+
+} /* end media query*/
